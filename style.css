@@ -1,0 +1,30 @@
+﻿body{ 
+	background-image:url('clg pic.jpg');
+	background-repeat:no-repeat;
+	background-size:100% 100%;
+	
+}
+h1{
+	width:100%;
+	font-family:Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+	font-size:80px;
+	margin-top:0px;
+	color:teal;
+}
+h2{
+	font-family:Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+	font-size:60px;
+	color:#33CC33;
+	margin-top:0px;
+}
+
+ul{
+	color:black;
+	background-color:aqua;
+}
+
+li a:hover{
+	background-color:lime;
+}
+
+
